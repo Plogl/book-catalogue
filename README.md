@@ -1,5 +1,7 @@
 # book catalogue
  
+-A test run of this code can be found as Book-Catalogue-Example.gif-
+
 Book search and sorter by ISBN, Author, and Title 
 
 I was the front and backend developer for this project, and I worked with one other teammate who handled the loader and validator. 
