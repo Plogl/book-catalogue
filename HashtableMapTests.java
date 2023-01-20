@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Michael Bonfiglio
-// CSL Username: bonfiglio
-// Email: mabonfiglio@wisc.edu
-// Lecture #: 003 @2:25pm
-// Notes to Grader: Enjoy!
-
 import java.util.NoSuchElementException;
 /**
  * Creates testers for the HashtableMap class.
