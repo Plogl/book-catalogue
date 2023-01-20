@@ -5,7 +5,7 @@ import java.util.List;
  * of the Book Mapper app using hash maps.
  */
 public interface IBookMapperBackend {
-    
+
     /**
      * Adds a new book to the backend's database and is stored in
      * a hash table internally.
@@ -56,5 +56,5 @@ public interface IBookMapperBackend {
      * @return the book identified by the ISBN, or null if ISBN not in database
      */
     public IBook getByISBN(String ISBN);
-    
+
 }

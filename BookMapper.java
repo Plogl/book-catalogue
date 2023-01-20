@@ -26,5 +26,4 @@ public class BookMapper {
         // start the input loop of the front end
         frontend.runCommandLoop();
     }
-    
 }
