@@ -18,6 +18,6 @@ if the given number is an ISBN. If it is a valid ISBN, the book is found and dis
 user is prompted to try again. 
 
 To run this code, download all folders into a file, and compile and run the main function within BookLoader.java. Make sure the .csv file
-is in the same folder as the rest of the files. 
+is in the same folder as the rest of the files. There is a .idea folder that shows how this file was made in intellij, but it is not necessary. 
 
 An example run of code can be found under Book-Catalogue-Example.gif.
