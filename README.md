@@ -17,6 +17,7 @@ list is created with all books that contain the word searched and fit the author
 if the given number is an ISBN. If it is a valid ISBN, the book is found and displayed, otherwise an error message is given and the 
 user is prompted to try again. 
 
-To run this code, download all folders into a file, and compile and run the main function within BookLoader.java
+To run this code, download all folders into a file, and compile and run the main function within BookLoader.java. Make sure the .csv file
+is in the same folder as the rest of the files. 
 
-An example run of code can be found under Book-Catalogue-Example.gif
+An example run of code can be found under Book-Catalogue-Example.gif.
